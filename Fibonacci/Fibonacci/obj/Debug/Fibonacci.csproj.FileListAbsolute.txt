@@ -1,7 +1,0 @@
-C:\Users\xpefe\source\repos\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe.config
-C:\Users\xpefe\source\repos\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe
-C:\Users\xpefe\source\repos\Fibonacci\Fibonacci\bin\Debug\Fibonacci.pdb
-C:\Users\xpefe\source\repos\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csproj.AssemblyReference.cache
-C:\Users\xpefe\source\repos\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
-C:\Users\xpefe\source\repos\Fibonacci\Fibonacci\obj\Debug\Fibonacci.exe
-C:\Users\xpefe\source\repos\Fibonacci\Fibonacci\obj\Debug\Fibonacci.pdb
